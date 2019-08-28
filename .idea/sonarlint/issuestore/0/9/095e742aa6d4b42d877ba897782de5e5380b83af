@@ -1,0 +1,7 @@
+
+tsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ÆÊâ±þÿÿÿÿ8¦‘³„Ç-
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÊâ±þÿÿÿÿ8¦‘³„Ç-
+Hsquid:S1612",Replace this lambda with a method reference.(ß“÷£8¦‘³„Ç-
+gsquid:S1192"KDefine a constant instead of duplicating this literal "onCreate: " 6 times.(©‘Õý8¦‘³„Ç-
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¸ÜÒÄøÿÿÿÿ8¦‘³„Ç-
+isquid:S1192"MDefine a constant instead of duplicating this literal "onComplete: " 3 times.(•§ª¬8¦‘³„Ç-

@@ -1,0 +1,5 @@
+
+qsquid:S1450"ZRemove the "observable2" field and declare it as a local variable in the relevant methods.(®³ö¥
+qsquid:S1450"ZRemove the "observable1" field and declare it as a local variable in the relevant methods.(®³ö¥
+@squid:S1659")Declare "observable2" on a separate line.(®³ö¥
+gsquid:S1192"KDefine a constant instead of duplicating this literal "onCreate: " 6 times.(Ùˆœ©ÿÿÿÿÿ

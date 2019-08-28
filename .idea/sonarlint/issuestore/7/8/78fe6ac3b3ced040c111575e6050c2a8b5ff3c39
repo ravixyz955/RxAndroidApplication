@@ -1,0 +1,8 @@
+
+{squid:S00116"YRename this field "forgot_pwd_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†£¡Áùÿÿÿÿ8à†Œ„Ç-
+Rsquid:S1068"1Remove this unused "EMAIL_PATTERN" private field.(À»‚“ùÿÿÿÿ8à†Œ„Ç-
+Gsquid:S1172"&Remove these unused method parameters.(İè‰şÿÿÿÿ8à†Œ„Ç-
+rsquid:S00116"URename this field "signup_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìÏ½8à†Œ„Ç-
+qsquid:S00116"TRename this field "login_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¯ïî8à†Œ„Ç-
+wsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ààÀ¦şÿÿÿÿ8à†Œ„Ç-
+Usquid:S1068"4Remove this unused "PASSWORD_PATTERN" private field.(ààÀ¦şÿÿÿÿ8à†Œ„Ç-
